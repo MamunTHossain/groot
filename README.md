@@ -1,9 +1,19 @@
-# groot
-Java Data Visualization project designed to make histogramming, plotting, and fitting accessible for Java users. 
+# About
+
+<table>
+<tr>
+<td>
+  
+groot is a simple plotting and fitting package that has several GUI tools built in. It's main focus is to remain simple to allow for ease of access to use plotting graphs, histogramming for both 2D and 3D histograms and improves the accuracy of graph information to a more precise number to see the trend of numbers in a certain area, allowing you to be able to customize the type of graph to your own liking. 
+  
+</td>
+</tr>
+</table>
+
 ## Features
 
-|                            | Groot Java Data Visualization  |   Other Configs   |
-| -------------------------- | :-------------------------:|:-------------:|
+|                            | Groot Java Data Visualization   |   Other Configs  |
+| -------------------------- | :--------------------------:    | :-------------:|
 | Optimized values           |         ✔️                     |        ❌        |
 | Useful tests               |         ✔️                     |        ❌        |
 | No misconcepted commands   |         ✔️                     |        ❌        |
@@ -13,6 +23,9 @@ Java Data Visualization project designed to make histogramming, plotting, and fi
 | Categorized by functions   |         ✔️                     |        ❌        |
 | New commands/values        |         ✔️                     |        ❌        |
 | No old command leftovers   |         ✔️                     |        ❌        |
+
+# Installation
+Simply add this [library jar](https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE.
 
 # Examples
 Try out the [demo jar](https://github.com/gavalian/groot/raw/master/jars/GrootDemo.jar) and check out the examples on our [Wiki](https://github.com/gavalian/groot/wiki "GROOT Wiki"). 
@@ -38,8 +51,6 @@ New canvas styles are imeplemented with preset configuration for plotting relate
 
 <img src="https://github.com/gavalian/groot/blob/master/images/multiplot_example.png" width="800">
 
-# Installation
-Simply add this [library jar](https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE.
 
 # Requirements
 Java 1.8 or greater
