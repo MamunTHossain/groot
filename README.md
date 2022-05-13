@@ -31,7 +31,7 @@ This is a Java development implementation using Visual Studio Code. By using Vis
 | No old graph data leftovers  |         ✔️                     |        ❌        |
 
 # Examples
-To run the example: Simply double click on the jar if you're a mac user, or if you're a linux user run ```java -jar GrootDemo.jar```
+After executing the file and inputting data, below are example graphs that have been generated using Groot.
 
 <img src="https://github.com/gavalian/groot/blob/master/images/multipad.png" width="800">
 <img src="https://github.com/gavalian/groot/blob/master/images/histogram2d_demo.png" width="400">
