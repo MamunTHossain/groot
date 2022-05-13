@@ -1,21 +1,18 @@
 # groot
 Java Data Visualization project designed to make histogramming, plotting, and fitting accessible for Java users. 
 ## Features
-## Features
 
-|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
-| -------------------------- | :----------------: | :-------------: |
-| Optimized values           |         ✔️         |        ❌        |
-| Useful scripts             |         ✔️         |        ❌        |
-| Documented commands        |         ✔️         |        ❌        |
-| Enabled in-game advantages |         ✔️         |        ❌        |
-| No misconcepted commands   |         ✔️         |        ❌        |
-| Professional info sources  |         ✔️         |        ❌        |
-| Clean sheet/template       |         ✔️         |        ❌        |
-| Easy to customize          |         ✔️         |        ❌        |
-| Categorized by functions   |         ✔️         |        ❌        |
-| New commands/values        |         ✔️         |        ❌        |
-| No old command leftovers   |         ✔️         |        ❌        |
+|                            | Groot Java Data Visualization  |   Other Configs   |
+| -------------------------- | :-------------------------:|:-------------:|
+| Optimized values           |         ✔️                     |        ❌        |
+| Useful tests               |         ✔️                     |        ❌        |
+| No misconcepted commands   |         ✔️                     |        ❌        |
+| Professional info sources  |         ✔️                     |        ❌        |
+| Clean sheet/template       |         ✔️                     |        ❌        |
+| Easy to customize          |         ✔️                     |        ❌        |
+| Categorized by functions   |         ✔️                     |        ❌        |
+| New commands/values        |         ✔️                     |        ❌        |
+| No old command leftovers   |         ✔️                     |        ❌        |
 
 # Examples
 Try out the [demo jar](https://github.com/gavalian/groot/raw/master/jars/GrootDemo.jar) and check out the examples on our [Wiki](https://github.com/gavalian/groot/wiki "GROOT Wiki"). 
