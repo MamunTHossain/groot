@@ -1,14 +1,9 @@
 # About
 
-<table>
-<tr>
-<td>
   
 groot is a simple plotting and fitting package that has several GUI tools built in. It's main focus is to remain simple to allow for ease of access to use plotting graphs, histogramming for both 2D and 3D histograms and improves the accuracy of graph information to a more precise number to see the trend of numbers in a certain area, allowing you to be able to customize the type of graph to your own liking. 
   
-</td>
-</tr>
-</table>
+>
 
 ## Features
 
