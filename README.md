@@ -11,7 +11,7 @@ This is a Java development implementation using Visual Studio Code. By using Vis
 # Installation
 * Ensure that JDK 1.8 or higher is installed on the system.
 * **[Download](https://github.com/MamunTHossain/groot/tree/master/src)** the latest version of the source files provided.
-* Then add this [library jar](https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE. preferably Visual Studio Code on a Windows machine to prevent potential dependency issues. 
+* Then add this **[library jar]**(https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE. preferably Visual Studio Code on a Windows machine to prevent potential dependency issues. 
 * Place the **src** folder (from .zip) inside the **local** folder from the path. 
 * Replace all files if prompt shows up indicating "Previous files will be overwritten". 
 * Install SpotBugs if you haven't already.
