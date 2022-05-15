@@ -30,15 +30,13 @@ This is a Java development implementation using Visual Studio Code. By using Vis
 # Installation
 * Ensure that JDK 1.8 or higher is installed on the system.
 * **[Download](https://github.com/MamunTHossain/groot/tree/master/src)** the latest version of the source files provided.
-* Once **[library jar]**(https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE,
-* preferably Visual Studio Code on a Windows machine to prevent potential dependency issues. 
+* Once **[library jar]**(https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE, preferably Visual Studio Code on a Windows machine to prevent potential dependency issues. 
 * Place the **src** folder (from .zip) inside the **local** folder from the path. 
 * Replace all files if prompt shows up indicating "Previous files will be overwritten". 
 * Once IDE is started up, ensure that "SpotBugs" has been installed within the IDE.
 * To use, open the **main** folder and execute program.
 * **Enter** the desired values in the GUI prompt and type of graph that is desired.
-* Once inputs have been entered for data points and graph type, complete the GUI
-* prompts and successfully view the desired data. 
+* Once inputs have been entered for data points and graph type, complete the GUI prompts and successfully view the desired data. 
 
 
 ## Features
