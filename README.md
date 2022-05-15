@@ -23,7 +23,7 @@
 Groot is a simple plotting and fitting package that has several GUI tools built in. It's main focus is to remain simple to allow for ease of access to use plotting graphs, histogramming for both 2D and 3D histograms and improves the accuracy of graph information to a more precise number to see the trend of numbers in a certain area, allowing you to be able to customize the type of graph to your own liking. 
   
 
-## The Code
+# The Code
 
 This is a Java development implementation using Visual Studio Code. By using Visual Studio Code, we are able to access the GUI easily with the built in plugins, which allow for the usage of SpotBugs. Using SpotBugs, we are able to swiftly identify any potential bugs in the code wherever it may be and fix them immediately. This allows us to create more reliable histograms and push future updates faster. 
 
@@ -39,7 +39,7 @@ This is a Java development implementation using Visual Studio Code. By using Vis
 * Once inputs have been entered for data points and graph type, complete the GUI prompts and successfully view the desired data. 
 
 
-## Features
+# Features
 
 |                              | Groot Java Data Visualization  |   Other Configs  |
 | --------------------------   | :--------------------------:   | :-------------:|
