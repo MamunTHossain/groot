@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#About">About</a> •
   <a href="#The Code">The Code</a> •
-  <a href="#Installation">Installation</a> •
+  <a href="#How To Use">How to Use</a> •
   <a href="#Features">Features</a> •
   <a href="#Examples">Examples</a> •
   <a href="#Updates">Updates</a>
@@ -27,7 +27,7 @@ Groot is a simple plotting and fitting package that has several GUI tools built 
 
 This is a Java development implementation using Visual Studio Code. By using Visual Studio Code, we are able to access the GUI easily with the built in plugins, which allow for the usage of SpotBugs. Using SpotBugs, we are able to swiftly identify any potential bugs in the code wherever it may be and fix them immediately. This allows us to create more reliable histograms and push future updates faster. 
 
-# Installation
+# How to Use
 * Ensure that JDK 1.8 or higher is installed on the system.
 * **[Download](https://github.com/MamunTHossain/groot/tree/master/src)** the latest version of the source files provided.
 * Once **[library jar]**(https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE, preferably Visual Studio Code on a Windows machine to prevent potential dependency issues. 
