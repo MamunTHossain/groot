@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#About">About</a> •
   <a href="#The Code">The Code</a> •
-  <a href="#How To Use">How to Use</a> •
+  <a href="#How to Use">How to Use</a> •
   <a href="#Features">Features</a> •
   <a href="#Examples">Examples</a> •
   <a href="#Updates">Updates</a> •
