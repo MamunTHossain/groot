@@ -2,9 +2,20 @@
   <br>
   <a href="https://github.com/MamunTHossain"><img src="https://freepngimg.com/thumb/technology/63583-visualization-data-illustration-png-image-high-quality.png" alt="Groot" width="500"></a>
   <br>
-  Groot Data
+  Groot Data Visualization Application
   <br>
 </h1>
+
+<p align="center">
+  <a href="#About">About</a> •
+  <a href="#The Code">The Code</a> •
+  <a href="#Installation">Installation</a> •
+  <a href="#Features">Features</a> •
+  <a href="#Examples">Examples</a> •
+  <a href="#Updates">Updates</a>
+  <a href="#Requirements">Requirements</a>
+  <a href="#Feature Requests and Contributions">Feature Requests and Contributions</a>
+</p>
 
 # About
 
