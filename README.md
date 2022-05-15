@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://www.techfunnel.com/wp-content/uploads/2020/10/data-visualization.png" alt="Groot" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://freepngimg.com/thumb/technology/63583-visualization-data-illustration-png-image-high-quality.png" alt="Groot" width="200"></a>
   <br>
   Markdownify
   <br>
