@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#The Code">The Code</a> •
-  <a href="#How to Use">How to Use</a> •
+  <a href="#The Code">TheCode</a> •
+  <a href="#How to Use">HowtoUse</a> •
   <a href="#Features">Features</a> •
   <a href="#Examples">Examples</a> •
-  <a href="#Update 1.4">Update 1.4</a> •
+  <a href="#Update 1.4">Update1.4</a> •
   <a href="#Requirements">Requirements</a> •
   <a href="#Feature requests and contributions">Feature requests and contributions</a> 
 </p>
