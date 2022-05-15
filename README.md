@@ -14,7 +14,7 @@
   <a href="#Examples">Examples</a> •
   <a href="#Updates">Updates</a> •
   <a href="#Requirements">Requirements</a> 
-  <a href="#Feature Requests and Contributions">Feature Requests and Contributions</a> •
+  <a href="#Feature Requests and Contributions">Feature Requests and Contributions</a> 
 </p>
 
 # About
