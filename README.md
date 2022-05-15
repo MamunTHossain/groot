@@ -12,7 +12,7 @@
   <a href="#How to Use">How to Use</a> •
   <a href="#Features">Features</a> •
   <a href="#Examples">Examples</a> •
-  <a href="#Updates">Updates</a> •
+  <a href="#Update 1.4">Update 1.4</a> •
   <a href="#Requirements">Requirements</a> •
   <a href="#Feature requests and contributions">Feature requests and contributions</a> 
 </p>
